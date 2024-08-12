@@ -285,6 +285,12 @@ section {
   margin-bottom: 3rem;
   text-align: center;
 }
+.heading2 {
+  position: relative;
+  font-size: 3rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
 span {
   color: var(--main-color);
 }
